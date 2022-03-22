@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Q号玩家'
+description: '买QQ号就到Q号玩家，很多QQ号靓号可以挑选！'
 permalink: pretty
 logo: "https://img.alicdn.com/imgextra/i4/2710706468/O1CN01vb3TAJ1xeOUwjDMLB_!!2710706468.jpg"
 
@@ -42,7 +42,7 @@ navigation_header:
   url: /about/
 - title: 联系
   url: /contact/
-- title: 博客
+- title: 资讯
   url: /blog/
 
 # Footer nav
@@ -55,8 +55,8 @@ collections:
   posts:
     title: 博客
     output: true
-    description: "以下是近期资讯"
-    feature_text:
+    description: "近期资讯"
+    feature_text:客服QQ：19191 08080
     feature_image: 
 
 # Collection settings
