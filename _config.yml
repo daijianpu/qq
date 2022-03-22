@@ -34,16 +34,20 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: 首页
   url: /
-- title: About
+- title: 选号
+  url: /qqhao/
+- title: 关于
   url: /about/
-- title: Blog
+- title: 联系
+  url: /contact/
+- title: 博客
   url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: 返回顶部Back to top
   url: "#top"
 
 # Collections
