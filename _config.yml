@@ -36,14 +36,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: 首页
   url: /
-- title: Q号
-  url: /qqhao/
-- title: Q群
-  url: /qqqun/
-- title: B站
-  url: /bilibili/
-- title: 其他
-  url: /qita/
+- title: 选号
+  url: /xuanhao/
 - title: 资讯
   url: /blog/
 - title: 关于
