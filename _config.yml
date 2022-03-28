@@ -36,14 +36,21 @@ paginate_path: blog/page:num
 navigation_header:
 - title: 首页
   url: /
-- title: 选号
+- title: QQ号
   url: /qqhao/
+- title: Q群号
+  url: /qqun/
+- title: BiliBili
+  url: /bilibili/
+- title: 其他靓号
+  url: /qita/
+- title: 资讯
+  url: /blog/
 - title: 关于
   url: /about/
 - title: 联系
   url: /contact/
-- title: 资讯
-  url: /blog/
+
 
 # Footer nav
 navigation_footer:
