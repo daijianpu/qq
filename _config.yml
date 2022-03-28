@@ -47,7 +47,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: 返回顶部Back to top
+- title: 返回顶部↑Back to top
   url: "#top"
 
 # Collections
