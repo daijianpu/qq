@@ -24,7 +24,7 @@ plugins:
 url: 'https://wankehao.com'
 baseurl: ''
 title: '万氪号'
-description: '买QQ号就到万氪号，很多靓号可以挑选！'
+description: '选靓号请认准万氪号，我们有：QQ靓号QQ群号B站bilibili靓号UID以及抖音快手号QID！'
 permalink: pretty
 logo: "https://img.alicdn.com/imgextra/i3/2710706468/O1CN01q7ocuD1xeOV4ATTWN_!!2710706468.jpg"
 
@@ -36,13 +36,13 @@ paginate_path: blog/page:num
 navigation_header:
 - title: 首页
   url: /
-- title: QQ号
+- title: Q号
   url: /qqhao/
-- title: Q群号
+- title: Q群
   url: /qqqun/
-- title: BiliBili
+- title: B站
   url: /bilibili/
-- title: 其他靓号
+- title: 其他
   url: /qita/
 - title: 资讯
   url: /blog/
