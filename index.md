@@ -1,6 +1,6 @@
 ---
-title: Q号玩家
+title: 万氪号
 feature_image: 
 feature_text:
 ---
-Q号玩家
+万氪号
