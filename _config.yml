@@ -21,12 +21,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://maiqqhao.com'
+url: 'https://wankehao.com'
 baseurl: ''
-title: 'Q号玩家'
-description: '买QQ号就到Q号玩家，很多QQ号靓号可以挑选！'
+title: '万氪号'
+description: '买QQ号就到万氪号，很多靓号可以挑选！'
 permalink: pretty
-logo: "https://img.alicdn.com/imgextra/i2/2710706468/O1CN01ZT7AN21xeOUwcOweb_!!2710706468.jpg"
+logo: "https://img.alicdn.com/imgextra/i3/2710706468/O1CN01q7ocuD1xeOV4ATTWN_!!2710706468.jpg"
 
 # Pagination
 paginate: 5
