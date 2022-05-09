@@ -38,12 +38,15 @@ navigation_header:
   url: /
 - title: 选号
   url: /xuanhao/
+- title: 建站
+  url: /web/
 - title: 须知
   url: /info/
 - title: 关于
   url: /about/
 - title: 联系
   url: /contact/
+
 
 
 # Footer nav
