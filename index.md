@@ -7,5 +7,5 @@ feature_text:
 <p>有规律的号码才有了意义。</p>
 <p>靓的号易记，能加深印象。</p>
 <p>请从下面挑选号码：</p>
-<p><img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN0144lv4E1xeOVTo8TWb_!!2710706468.jpg" width="100%"></p>
+<p><img src="https://img.alicdn.com/imgextra/i1/2710706468/O1CN01BtiAOk1xeOVjXBtPS_!!2710706468.jpg" width="100%"></p>
 <p>联系QQ号：19191 08080</p>
